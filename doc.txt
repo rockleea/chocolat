@@ -1,9 +1,19 @@
 premier message 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 deuxieme message 
 troisieme message 
 quatrieme message
 cinquieme message
 sixieme message
 septieme message
+<<<<<<< HEAD
 deuxieme message 
 lionel messi
+=======
+=======
+deuxieme message 
+>>>>>>> bc589c4c80d439a29d5f781507fe81974157ffa9
+>>>>>>> main
