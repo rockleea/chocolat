@@ -1,8 +1,22 @@
 premier message 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
+>>>>>>> ptdr
 deuxieme message 
 troisieme message 
 quatrieme message
 cinquieme message
 sixieme message
 septieme message
+<<<<<<< HEAD
 deuxieme message 
+=======
+<<<<<<< HEAD
+deuxieme message 
+lionel messi
+final hh
+>>>>>>> ptdr
